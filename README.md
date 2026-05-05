@@ -48,6 +48,9 @@ V13 — Gradual + Recovery
 ---
 
 ##  Results
+##  Average Graph
+
+![Results](results.png)
 
 ### MNIST
 
